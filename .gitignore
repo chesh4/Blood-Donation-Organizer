@@ -1,0 +1,10 @@
+.DS_Store
+/out/
+/data/*.csv
+!data/donors.csv
+*.class
+*.log
+*.tmp
+.idea/
+.vscode/
+*.iml
